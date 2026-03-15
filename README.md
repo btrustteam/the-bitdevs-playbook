@@ -130,6 +130,17 @@ This Playbook is maintained digitally for:
 - Sponsors and partners  
 - Educational and technical collaborators in the Bitcoin ecosystem  
 
+## Translations
+
+This Playbook is available in the following languages:
+
+| Language | Link |
+|----------|------|
+| English  | [README.md](README.md) (default) |
+| Español  | [translations/es/README.md](translations/es/README.md) |
+
+Want to add a new translation? Create a new folder under `translations/` with the [ISO 639-1 language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) (e.g., `translations/fr/` for French, `translations/pt/` for Portuguese) and replicate the same folder structure. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
 ## License
 
 This Playbook is © 2025 [Btrust](https://www.btrust.tech/) and licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE.md) license.
