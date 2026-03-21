@@ -107,7 +107,7 @@ The playbook mirrors the lifecycle of a BitDevs location: setup, operations, qua
 
 | Name                | Role                  | Affiliation                           | Github                                            | Email                  |
 |--------------------|------------------------|---------------------------------------|---------------------------------------------------|------------------------|
-| Stephanie Titcombe  | Lead Author & Maintainer | Program & Operations Lead, Btrust | [@StephTitcombe](https://github.com/StephTitcombe) | [stephanie@btrust.tech](mailto:stephanie@btrust.tech) |
+| Stephanie Titcombe  | Lead Author & Maintainer | Head of Programs & Operations, Btrust | [@StephTitcombe](https://github.com/StephTitcombe) | [stephanie@btrust.tech](mailto:stephanie@btrust.tech) |
 
 | Name                | Role                  | Affiliation                           | Github 
 |--------------------|------------------------|---------------------------------------|---------------------------------------------------|
